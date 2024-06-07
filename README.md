@@ -14,7 +14,7 @@ Software.
 
 ## Habilidaes 💪🏻
 
-- Java (Intermedio).
+- Java y JavaEE (Intermedio).
 - JavaScript (Intermedio).
 - React (Intermedio).
 - Python (Intermedio).
