@@ -12,7 +12,7 @@ búsqueda de aprender sobre nuevas tecnologías y
 habilidades para contribuir al mundo del desarrollo de
 Software.
 
-## Habilidaes 💪🏻
+## Habilidades 💪🏻
 
 - Java y JavaEE (Intermedio).
 - JavaScript (Intermedio).
@@ -20,6 +20,9 @@ Software.
 - Python (Intermedio).
 - Git (Intermedio).
 - MySQL (Intermedio).
+- HTML
+- CSS
+  
 
 ## Mi GitHub
 
