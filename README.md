@@ -20,11 +20,11 @@ Software.
 - Python (Intermedio).
 - Git (Intermedio).
 - MySQL (Intermedio).
-- HTML
-- CSS
+- HTML (Intermedio)
+- CSS (Intermedio)
   
 
 ## Mi GitHub
 
-En mi GitHub encontrarás proyectos que he hecho a lo largo de mis tres primeros semestres de carrera. 
+En mi GitHub encontrarás proyectos que he hecho a lo largo de mis tres primeros semestres de carrera. c:
 
