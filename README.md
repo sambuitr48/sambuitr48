@@ -11,3 +11,12 @@ a mis capacidades creativas. Estoy en una constante
 búsqueda de aprender sobre nuevas tecnologías y
 habilidades para contribuir al mundo del desarrollo de
 Software.
+
+## Habilidaes 💪🏻
+
+- Java (Intermedio).
+- JavaScript (Intermedio).
+- React (Intermedio).
+- Python (Intermedio).
+- Git (Intermedio).
+- MySQL (Intermedio).
