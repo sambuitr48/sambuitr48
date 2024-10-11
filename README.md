@@ -16,6 +16,8 @@ Software.
 
 - Java y JavaEE (Intermedio).
 - JavaScript (Intermedio).
+- PHP (Intermedio)
+- Codeigniter (Intermedio)
 - React (Intermedio).
 - Python (Intermedio).
 - Git (Intermedio).
