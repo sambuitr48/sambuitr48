@@ -23,5 +23,5 @@ Poseo una sólida capacidad para trabajar en equipo, gracias a mi organización,
 
 ## Mi GitHub
 
-En mi GitHub encontrarás proyectos que he hecho a lo largo de mis tres primeros semestres de carrera. c:
+En mi GitHub encontrarás proyectos que he hecho a lo largo de mis cuatro semestres de carrera. c:
 
