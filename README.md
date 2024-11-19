@@ -1,29 +1,24 @@
 ## Samuel Buitrago Osorio 💻 🌌
 
-Estudiante actual de ingeniería de software de la
-Corporación Universitaria Empresarial Alexander von
-Humboldt. Hábil en el desarrollo web, backend y frontend.
-Destaco por mi capacidad analítica, lógica y estratégica
-para la resolución de problemas. Poseo destreza en el
-trabajo cooperativo gracias a mi orden, eficiencia y
-empatía. Además, me caracterizo por aportar ideas debido
-a mis capacidades creativas. Estoy en una constante
-búsqueda de aprender sobre nuevas tecnologías y
-habilidades para contribuir al mundo del desarrollo de
-Software.
+Soy estudiante de Ingeniería de Software en la Corporación Universitaria Empresarial Alexander von Humboldt, con habilidades en desarrollo web, tanto en backend como en frontend. Me destaco por mi pensamiento analítico, lógico y estratégico, que me permite abordar y resolver problemas de manera eficiente y creativa.
+
+Poseo una sólida capacidad para trabajar en equipo, gracias a mi organización, empatía y enfoque en la eficiencia. Mi mentalidad innovadora me impulsa a proponer soluciones que generen valor. Además, estoy comprometido con el aprendizaje continuo y la incorporación de nuevas tecnologías para contribuir al avance del desarrollo de software y enfrentar los desafíos tecnológicos con proactividad.
 
 ## Habilidades 💪🏻
 
 - Java y JavaEE (Intermedio).
 - JavaScript (Intermedio).
+- Node.js (Intermedio).
 - PHP (Intermedio)
 - Codeigniter (Intermedio)
 - React (Intermedio).
+- Angular (Intermerdio).
 - Python (Intermedio).
 - Git (Intermedio).
 - MySQL (Intermedio).
-- HTML (Intermedio)
-- CSS (Intermedio)
+- MongoDB (Intermedio).
+- HTML (Intermedio).
+- CSS (Intermedio).
   
 
 ## Mi GitHub
