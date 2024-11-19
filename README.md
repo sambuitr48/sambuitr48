@@ -19,6 +19,8 @@ Poseo una sólida capacidad para trabajar en equipo, gracias a mi organización,
 - MongoDB (Intermedio).
 - HTML (Intermedio).
 - CSS (Intermedio).
+- Docker (Intermedio).
+- Amazon Web Services (Principiante)
   
 
 ## Mi GitHub
