@@ -6,24 +6,21 @@ Poseo una sólida capacidad para trabajar en equipo, gracias a mi organización,
 
 ## Habilidades 💪🏻
 
-- Java y JavaEE (Intermedio).
+- Java con Spring Boot (Intermedio).
+- PHP con Laravel (Intermedio)
 - JavaScript (Intermedio).
-- Node.js (Intermedio).
-- PHP (Intermedio)
-- Codeigniter (Intermedio)
-- React (Intermedio).
-- Angular (Intermerdio).
-- Python (Intermedio).
+- Node.js (Intermedio)
+- React (Básico).
+- Angular (Básico).
+- Python (Básico).
 - Git (Intermedio).
 - MySQL (Intermedio).
-- MongoDB (Intermedio).
-- HTML (Intermedio).
-- CSS (Intermedio).
-- Docker (Intermedio).
-- Amazon Web Services (Principiante)
+- MongoDB (Básico).
+- Docker (Principiante).
+- Amazon web services (Principiante).
   
 
 ## Mi GitHub
 
-En mi GitHub encontrarás proyectos que he hecho a lo largo de mis cuatro semestres de carrera. c:
+En mi GitHub encontrarás proyectos que he hecho a lo largo de mis seis semestres de carrera.
 
