@@ -1,26 +1,37 @@
-## Samuel Buitrago Osorio 💻 🌌
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Soy estudiante de Ingeniería de Software en la Corporación Universitaria Empresarial Alexander von Humboldt, con habilidades en desarrollo web, tanto en backend como en frontend. Me destaco por mi pensamiento analítico, lógico y estratégico, que me permite abordar y resolver problemas de manera eficiente y creativa.
+###
 
-Poseo una sólida capacidad para trabajar en equipo, gracias a mi organización, empatía y enfoque en la eficiencia. Mi mentalidad innovadora me impulsa a proponer soluciones que generen valor. Además, estoy comprometido con el aprendizaje continuo y la incorporación de nuevas tecnologías para contribuir al avance del desarrollo de software y enfrentar los desafíos tecnológicos con proactividad.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## Habilidades 💪🏻
+###
 
-- Java con Spring Boot (Intermedio).
-- PHP con Laravel (Intermedio)
-- JavaScript (Intermedio).
-- Node.js (Intermedio)
-- React (Básico).
-- Angular (Básico).
-- Python (Básico).
-- Git (Intermedio).
-- MySQL (Intermedio).
-- MongoDB (Básico).
-- Docker (Principiante).
-- Amazon web services (Principiante).
-  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-## Mi GitHub
-
-En mi GitHub encontrarás proyectos que he hecho a lo largo de mis seis semestres de carrera.
-
+###
