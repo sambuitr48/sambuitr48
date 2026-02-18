@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋 I'm Sam</h1>
-<h3 align="center">Software Engineer | Backend & Cloud Focused</h3>
+<h1 align="center">Hi, I'm Sam 🐁</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Building scalable systems, clean architectures and production-ready applications.
+Hi, I'm Samuel. Final-year Software Engineering student passionate about full-stack development, operating systems, and cybersecurity.  
+On my GitHub profile, you'll find the projects I’ve built so you can better understand my technical approach and growth as an engineer.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technologies & Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,graphql,go,rust,python,aws" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,linux,vue,react,docker,python,angular,js,nodejs,mysql,mongodb" />
 </div>
 
 ---
@@ -49,10 +48,13 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/samuel-buitrago-osorio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Buitrago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/TU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.instagram.com/saam.ratt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@saam.ratt-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:buitragoosoriosamuel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-buitragoosoriosamuel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
