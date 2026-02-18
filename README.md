@@ -18,7 +18,8 @@ On my GitHub profile, you'll find the projects I’ve built so you can better un
 
 ## 🧠 Engineering Focus
 
-- Designing modular backend systems following Clean Architecture principles- REST API design and implementation
+- Designing modular backend systems following Clean Architecture principles
+- REST API design and implementation
 - Building RESTful APIs with proper layering and separation of concerns
 - Working with Docker and Linux environments for development 
 - Database design (SQL & MongoDB)
