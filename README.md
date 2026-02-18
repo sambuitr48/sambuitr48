@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sam 🐁</h1>
+<h1 align="left">Hi, I'm Sam 🐁</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
+<p align=" left">
 Hi, I'm Samuel. Final-year Software Engineering student passionate about full-stack development, operating systems, and cybersecurity.  
 On my GitHub profile, you'll find the projects I’ve built so you can better understand my technical approach and growth as an engineer.
 </p>
