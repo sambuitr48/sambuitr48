@@ -18,11 +18,15 @@ On my GitHub profile, you'll find the projects I’ve built so you can better un
 
 ## 🧠 Engineering Focus
 
-- Backend Architecture (Clean Architecture, Hexagonal, DDD)
-- Distributed Systems & APIs
-- Cloud Infrastructure (AWS)
-- Performance & Scalability
-- CI/CD & DevOps Practices
+## 🧠 Engineering Focus
+
+- Designing modular backend systems following Clean Architecture principles- REST API design and implementation
+- Building RESTful APIs with proper layering and separation of concerns
+- Working with Docker and Linux environments for development 
+- Database design (SQL & MongoDB)
+- Containerized environments with Docker & Linux
+- CI/CD automation with GitHub Actions
+- Interest in cloud infrastructure and cybersecurity
 
 ---
 
